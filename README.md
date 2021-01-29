@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakash Das</h1>
 <h3 align="center">A passionate self taught frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashdas95&label=Profile%20views&color=0e75b6&style=flat" alt="prakashdas95" /> </p>
-
 - 🌱 I’m currently learning **Backend development**
 
 - 📫 How to reach me **prakashdas075@gmail.com**
